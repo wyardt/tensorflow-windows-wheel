@@ -1,5 +1,7 @@
 # tensorflow-windows-wheel
 
+for intel Q8300 cpu with win10 x64, use tensorflow-windows-wheel/1.13.1/py37/CPU/sse2/tensorflow-1.13.1-cp37-cp37m-win_amd64.whl
+
 This repo contains all you need that work with tensorflow on windows.
 
 - Python 3.7 support
